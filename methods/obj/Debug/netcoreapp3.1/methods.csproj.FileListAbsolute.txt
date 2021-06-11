@@ -1,0 +1,12 @@
+/Users/dasheajohnson/Projects/methods/methods/obj/Debug/netcoreapp3.1/methods.csprojAssemblyReference.cache
+/Users/dasheajohnson/Projects/methods/methods/obj/Debug/netcoreapp3.1/methods.AssemblyInfoInputs.cache
+/Users/dasheajohnson/Projects/methods/methods/obj/Debug/netcoreapp3.1/methods.AssemblyInfo.cs
+/Users/dasheajohnson/Projects/methods/methods/obj/Debug/netcoreapp3.1/methods.csproj.CoreCompileInputs.cache
+/Users/dasheajohnson/Projects/methods/methods/bin/Debug/netcoreapp3.1/methods.deps.json
+/Users/dasheajohnson/Projects/methods/methods/bin/Debug/netcoreapp3.1/methods.runtimeconfig.json
+/Users/dasheajohnson/Projects/methods/methods/bin/Debug/netcoreapp3.1/methods.runtimeconfig.dev.json
+/Users/dasheajohnson/Projects/methods/methods/bin/Debug/netcoreapp3.1/methods.dll
+/Users/dasheajohnson/Projects/methods/methods/bin/Debug/netcoreapp3.1/methods.pdb
+/Users/dasheajohnson/Projects/methods/methods/obj/Debug/netcoreapp3.1/methods.dll
+/Users/dasheajohnson/Projects/methods/methods/obj/Debug/netcoreapp3.1/methods.pdb
+/Users/dasheajohnson/Projects/methods/methods/obj/Debug/netcoreapp3.1/methods.genruntimeconfig.cache
